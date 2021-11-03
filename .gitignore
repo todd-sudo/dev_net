@@ -1,0 +1,37 @@
+
+g.json
+celerybeat-schedule
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+log.txt
+# C extensions
+*.so
+*.djcache
+django_cache
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+venv
+venv/
+env
+env/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+.idea
+.idea/
